@@ -1,0 +1,8 @@
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Hanen\Desktop\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb
